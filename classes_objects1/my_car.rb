@@ -40,7 +40,7 @@ class MyCar
 	def speed_up
 		self.speed+=20
 	end
-
+	
 	def break
 		self.speed-=20
 	end
